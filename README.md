@@ -58,10 +58,6 @@ Before you begin, you should have already downloaded the Android Studio SDK and 
 
 6. Build the application in your device by clicking run button.
 
-## Wiki
-
-View the [wiki](https://github.com/openMF/self-service-app/wiki) to see pages that provide details on the project.
-
 ## Specification
 
 See the [requirements](https://github.com/openMF/self-service-app/wiki/Design-&-Requirements) for an initial design mockup and documentation on the Fineract API.
